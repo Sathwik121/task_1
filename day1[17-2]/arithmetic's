@@ -1,0 +1,8 @@
+#take two numbers as input print sum product and remainder 
+
+a= 5
+b= 10 
+sum = a+b
+product = a*b
+remainder = a%b
+print (sum,product,remainder,sep ="||")
