@@ -1,0 +1,4 @@
+print you name 5 times on the same line using separator |
+
+name = "sathwik"
+print (name , name,name,name,name , sep = " | ")
