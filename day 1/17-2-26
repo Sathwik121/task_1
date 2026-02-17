@@ -1,1 +1,22 @@
+"""research about fstring
+name age city """
+
+name=  "Bob" 
+age= 30
+city = "tirupati"
+print(f"{name} is {age}")
+
+"""An f-string (short for formatted string literal) is a way to put variables or expressions directly inside a string in Python.
+It’s called an f-string because you write the letter f before the quotation marks.
+
+a = 5
+b = 3
+print(f"The sum is {a + b}")
+
+
+name = "Alice"
+age = 25
+
+print(f"My name is {name} and I am {age} years old.")
+"""
 
